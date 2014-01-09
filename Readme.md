@@ -24,3 +24,5 @@ Pour la gestion de projet nous vouys recommadons Trello. (https://trello.com/) m
 * les refcards
 
 
+This document can be edited using http://jbt.github.io/markdown-editor/
+
